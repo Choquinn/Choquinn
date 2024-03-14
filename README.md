@@ -1,4 +1,4 @@
-- 👋 Progamador, Criador de jogos e músico
+- 👋 Progamador, Desenvolvedor de jogos e músico
 - 🔭 Até o recente momento, estudando de tudo
 - 🌱 Estou aprendendo C++, C, C#, JavaScript, NodeJS, ReactJS, PHP
 - 🥅 Minha meta é me profissonalizar em programação e ajudar todos o máximo possível
