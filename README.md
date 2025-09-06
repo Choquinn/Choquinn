@@ -20,17 +20,16 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](<img width="288" height="288" alt="image" src="https://github.com/user-attachments/assets/c28d12c9-32dd-41f4-a35f-3b3bea750d01" />)
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do TheNeoCarvalho](https://github-readme-stats.vercel.app/api?username=TheNeoCarvalho&show_icons=true&theme=radical)
+![Estatísticas do TheNeoCarvalho](https://github-readme-stats.vercel.app/api?username=Choquinn&show_icons=true&theme=radical)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNeoCarvalho&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Choquinn&layout=compact&theme=radical)
 
 <!---
 Choquinn/Choquinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
