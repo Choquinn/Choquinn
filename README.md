@@ -32,45 +32,26 @@
 
 ### Linguagens e Ferramentas:
 
-<img style="margin:2px; display:inline-block; vertical-align:middle;" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img style="margin:2px; display:inline-block; vertical-align:middle;" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img style="margin:2px; display:inline-block; vertical-align:middle;" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img style="margin:2px; display:inline-block; vertical-align:middle;" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-<img style="margin:2px; display:inline-block; vertical-align:middle;" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img style="margin:2px; display:inline-block; vertical-align:middle;" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img style="margin:2px; display:inline-block; vertical-align:middle;" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img style="margin:2px; display:inline-block; vertical-align:middle;" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<img style="margin:2px; display:inline-block; vertical-align:middle;" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img style="margin:2px; display:inline-block; vertical-align:middle;" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img style="margin:2px; display:inline-block; vertical-align:middle;" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />
-
-<img style="margin:2px; display:inline-block; vertical-align:middle;" alt="SpringBoot" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" />
-
-<img style="margin:2px; display:inline-block; vertical-align:middle;" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
-
-<img style="margin:2px; display:inline-block; vertical-align:middle;" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" />
-
-<img style="margin:2px; display:inline-block; vertical-align:middle;" alt="BootStrap" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" />
-
-<img style="margin:2px; display:inline-block; vertical-align:middle;" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" />
-
-<img style="margin:2px; display:inline-block; vertical-align:middle;" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
-
-<img style="margin:2px; display:inline-block; vertical-align:middle;" alt="VueJS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" />
-
-<img style="margin:2px; display:inline-block; vertical-align:middle;" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img style="margin:2px; display:inline-block; vertical-align:middle;" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" width="26px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="26px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" width="26px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass" width="26px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="26px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="26px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="26px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" width="26px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" width="26px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="26px"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL" width="26px"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" alt="Spring Boot" width="26px"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="26px"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" alt="Kotlin" width="26px"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="26px"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" alt="Golang" width="26px"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="26px"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" alt="VueJS" width="26px"/>
+<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width="26px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="26px"/>
 
 [github]: https://github.com/Choquinn
 [twitch]: https://twitch.tv/Choquinn
