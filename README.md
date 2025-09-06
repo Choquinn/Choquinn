@@ -1,30 +1,36 @@
+### Sobre mim...
 - 👋 Progamador, Desenvolvedor de jogos e músico
 - 🔭 Até o momento, estudando de tudo
-- 🌱 Estou aprendendo C++, C, C#, JavaScript, NodeJS, ReactJS, PHP
-- 🥅 Minha meta é me profissonalizar em programação e algum dia alcançar a independência financeira
+- 🥅 Minha meta é me profissonalizar em programação e trabalhar para grandes empresas
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+<table>
+  <tr>   
+    <td>
+     Dados do Github
+     <img alt="Choquinn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Choquinn&show_icons=true&hide_border=true&theme=dark" />
+    </td>
+    <td>
+     Linguagens mais usadas
+     <img alt="Choquinn" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choquinn&layout=compact&theme=dark&title_color=268bd2" />
+    </td>
+  </tr>
+</table>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+### Total de contribuições
+[![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Choquinn&layout=compact&theme=dracula&locale=pt-br&title_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
 
-### Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Visualizações
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Choquinn&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> </p>
 
-## Linguagens Usadas
+### Redes Sociais
+[<img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="codeSTACKr | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][twitch]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Site" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gatsby.svg" />][site]
+
+<br />
+
+### Linguagens e Ferramentas:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -45,15 +51,31 @@
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
+<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />
+
+<img align="left" alt="SpringBoot" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" />
+
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
+
+<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" />
+
+<img align="left" alt="BootStrap" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" />
+
+<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" />
+
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
+
+<img align="left" alt="VueJS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" />
+
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do TheNeoCarvalho](https://github-readme-stats.vercel.app/api?username=Choquinn&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Choquinn&layout=compact&theme=radical)
+[github]: https://github.com/Choquinn
+[twitch]: https://twitch.tv/Choquinn
+[instagram]: https://instagram.com/devpaulinn
+[linkedin]: https://www.linkedin.com/in/paulo-henrique-112362358
+[site]: https://choquinn.github.io
 
 <!---
 Choquinn/Choquinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
