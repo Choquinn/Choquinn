@@ -23,7 +23,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](<img width="288" height="288" alt="image" src="https://github.com/user-attachments/assets/c28d12c9-32dd-41f4-a35f-3b3bea750d01" />)
+![VSCode](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png)
 
 ## 📊 Estatísticas do GitHub
 
