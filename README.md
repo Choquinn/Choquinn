@@ -6,7 +6,7 @@
 <table>
   <tr>   
     <td>
-      ![GitHub Stats](https://ghstats.dev/api/card?username=Choquinn)
+      <img src="https://ghstats.dev/api/card?username=Choquinn" />
     </td>
     <td>
      Linguagens mais usadas
