@@ -7,7 +7,7 @@
   <tr>   
     <td>
      Dados do Github
-     <img alt="Choquinn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Choquinn&show_icons=true&hide_border=true&theme=dark" />
+     <img alt="Choquinn's Github Stats" src="https://ghstats.dev/api/card?username=Choquinn" />
     </td>
     <td>
      Linguagens mais usadas
