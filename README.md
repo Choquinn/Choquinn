@@ -1,16 +1,12 @@
 ### Sobre mim...
-- 👋 Progamador, Desenvolvedor de jogos e músico
-- 🔭 Até o momento, estudando de tudo
-- 🥅 Minha meta é me profissonalizar em programação e trabalhar para grandes empresas
+- 👋 Programador, Desenvolvedor de jogos e músico
+- 🔭 Estudante de Análise e Desenvolvimento de Sistemas
+- 🥅 Minha meta é ser cada dia melhor do que o anterior
 
 <table>
   <tr>   
     <td>
       <img src="https://ghstats.dev/api/card?username=Choquinn" />
-    </td>
-    <td>
-     Linguagens mais usadas
-     <img alt="Choquinn" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choquinn&layout=compact&theme=dark&title_color=268bd2" />
     </td>
   </tr>
 </table>
@@ -67,9 +63,15 @@
 
 <img align="left" alt="Terminal" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<img align="left" alt="Terminal" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+
+<img align="left" alt="Terminal" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+
+<img align="left" alt="Terminal" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+
 [github]: https://github.com/Choquinn
 [youtube]: https://youtube.com/@Choquinn
-[instagram]: https://instagram.com/devpaulinn
+[instagram]: https://instagram.com/paulChoquinn
 [linkedin]: https://www.linkedin.com/in/paulo-henrique-112362358
 [site]: https://choquinn.github.io
 
