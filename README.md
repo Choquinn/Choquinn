@@ -51,7 +51,7 @@
 
 <img align="left" alt="Kotlin" width="22px" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" />
 
-<img align="left" alt="BootStrap" width="22px" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" />
+<img align="left" alt="Angular" width="22px" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" />
 
 <img align="left" alt="TypeScript" width="22px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
 
@@ -59,11 +59,11 @@
 
 <img align="left" alt="Terminal" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img align="left" alt="Terminal" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<img align="left" alt="c" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 
-<img align="left" alt="Terminal" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="cpp" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 
-<img align="left" alt="Terminal" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+<img align="left" alt="csharp" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 
 [github]: https://github.com/Choquinn
 [youtube]: https://youtube.com/@Choquinn
